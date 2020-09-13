@@ -6,10 +6,10 @@ I will be tackling **Problem 2**, so that's the one to judge the application by.
     
 Any _other_ solutions here were not necessarily worked on before the deadline...
 
-If the notebook is not rendered correctly on GitHub, please [view it on nbviewer instead.](https://nbviewer.jupyter.org/github/aditya-giri/qosf-mentorship-tasks/blob/master/Task%202.ipynb)
+If the notebook (or any of the MathJax in it) is not rendered correctly on GitHub, please [view it on nbviewer instead.](https://nbviewer.jupyter.org/github/aditya-giri/qosf-mentorship-tasks/blob/master/Task%202.ipynb)
     
   
-If you wish to run the notebook locally, please run `pip install -r requirements.txt`, preferably in a virtual environment (using conda or venv) and register the virtual environment with the IPython kernel. Or, open the notebook and run `!pip install -r requirements.txt` on a fresh cell before proceeding.  
+If you wish to run the notebook locally, please run `pip install -r requirements.txt`, preferably in a virtual environment (using conda or venv) and register the virtual environment with the IPython kernel. Or, open the notebook and run `!pip install -r requirements.txt` on a fresh cell before proceeding. If you wish to use Colab instead, [use this link](https://colab.research.google.com/github/aditya-giri/qosf-mentorship-tasks/blob/master/Task%202.ipynb). If you are using Colab, you will probably need to upload `requirements.txt` and run `!pip install -r requirements.txt` before proceeding.
   
   
 
